@@ -1,6 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from "react";
-import ReactFullpage from "@fullpage/react-fullpage/dist/react-fullpage-commonjs";
+import ReactFullpage from "@fullpage/react-fullpage/dist/react-fullpage-umd";
 
 class FullpageWrapper extends React.Component {
   constructor(props) {
